@@ -102,3 +102,4 @@ tsconfig.json
 }
 ```
 > Set `allowSyntheticDefaultImports` to prevent `error TS1192: Module 'react' has no default export`.
+# react-image-viewer-zoom
