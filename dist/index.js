@@ -232,11 +232,4 @@ ImageViewer.defaultProps = {
     showPreview: true,
     activeIndex: 0,
 };
-ImageViewer.propTypes = {
-    prefixCls: react_1.PropTypes.string,
-    className: react_1.PropTypes.string,
-    showIndex: react_1.PropTypes.bool,
-    showPreview: react_1.PropTypes.bool,
-    activeIndex: react_1.PropTypes.number,
-};
 exports.default = ImageViewer;
